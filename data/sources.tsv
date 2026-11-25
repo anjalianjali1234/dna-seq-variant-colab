@@ -1,0 +1,5 @@
+file	md5	url
+reads.bam	3fda9407e54b2388eec9c761511fd897	https://storage.googleapis.com/deepvariant/quickstart-testdata/NA12878_S1.chr20.10_10p1mb.bam?generation=1511805231938070
+confident.bed	de440c5e3642fb5c4e41bc25d6decdfe	https://storage.googleapis.com/deepvariant/quickstart-testdata/test_nist.b37_chr20_100kbp_at_10mb.bed?generation=1511805232613574
+truth.vcf.gz	54aee7dad328847fadbcbcb4f2ecca89	https://storage.googleapis.com/deepvariant/quickstart-testdata/test_nist.b37_chr20_100kbp_at_10mb.vcf.gz?generation=1791311847973037
+ref.fa.gz	107b3b8623b4f53ca6471ad18ec8aa32	https://storage.googleapis.com/deepvariant/quickstart-testdata/ucsc.hg19.chr20.unittest.fasta.gz?generation=1511805234386919

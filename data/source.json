@@ -1,0 +1,10 @@
+{
+  "endpoint": "https://grch37.rest.ensembl.org/vep/human/region",
+  "release": {
+    "releases": [
+      116
+    ]
+  },
+  "retrieved_utc": "2026-11-23T08:49:35.572510+00:00",
+  "n": 75
+}
